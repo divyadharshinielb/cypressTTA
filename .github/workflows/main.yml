@@ -13,5 +13,5 @@ jobs:
       - name: Cypress run
         uses: cypress-io/github-action@v5
         with:
-          build: npm install
-          start: npx cypress --browser chrome
+          browser: chrome
+          spec: cypress/e2e/TTAFiles/*.cy.ts
