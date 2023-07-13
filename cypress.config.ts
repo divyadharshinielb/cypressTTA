@@ -56,7 +56,7 @@
   // screenshotsFolder: './../myinfra/mochawesome-report/assets',
   screenshotOnRunFailure: true,
   //reporter: './../cypress project/node_modules/mochawesome',
-  reporterOptions: {
+ /*reporterOptions: {
     reportDir: './../TTA/report',
     code: true,
     charts: true,
@@ -66,7 +66,7 @@
     json: false,
     embeddedScreenshots: true,
     inlineAssets: true, //Adds the asserts inline
-  },
+  },*/
   video: false,
   viewportHeight: 1080,
   viewportWidth: 1920,
