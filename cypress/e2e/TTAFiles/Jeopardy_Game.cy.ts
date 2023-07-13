@@ -1,5 +1,5 @@
-import cypressConfig from "../../../cypress.config"
-
+//import cypress.config
+///<reference types="cypress" />
 describe("Training Arcade",function(){
     beforeEach(()=>{
         cy.visit('https://tga-qa.staging.thetrainingarcade.com/admin/#!/login')
