@@ -6,6 +6,7 @@
 
 
  module.exports = defineConfig({
+  projectId: 'pbi8tx',
 
  //  reporter: 'cypress-mochawesome-reporter',
   // "pageLoadTimeout": 60000,
