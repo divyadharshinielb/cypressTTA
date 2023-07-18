@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/divyadharshinielb/cypressTTA#readme",
   "dependencies": {
-    "cypress": "^12.17.0"
+    "cypress": "^12.17.0",
+    "typescript": "^5.1.6"
   }
 }
