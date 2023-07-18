@@ -68,7 +68,7 @@
     embeddedScreenshots: true,
     inlineAssets: true, //Adds the asserts inline
   },*/
-  video: false,
+  video: true,
   viewportHeight: 1080,
   viewportWidth: 1920,
   waitForAnimations: true
